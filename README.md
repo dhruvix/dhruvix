@@ -7,6 +7,8 @@ a final year student of computer science at MSRIT
 <a href = "https://dhruvix7.blogspot.com/"><img src="https://img.icons8.com/nolan/40/blogger.png"/></a>
 
 ---
-I'm passionate about modern technology, ancient history...<br />...and Star Wars!
+I am passionate about modern technology, ancient history...
+
+...and Star Wars!
 
 <img src="https://media.tenor.com/images/ad5d99fcd639c0b431a08f9ecf11de8f/tenor.gif" />
