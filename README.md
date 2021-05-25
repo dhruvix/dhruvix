@@ -1,4 +1,4 @@
-### Hello there, I'm Dhruva Narayan
+### Hello there, I'm [Dhruva Narayan](https://sites.google.com/view/dhruvix7),
 a final year student of computer science at MSRIT
 
 <a href = "https://www.linkedin.com/in/dhruva-narayan-482a70195/"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
