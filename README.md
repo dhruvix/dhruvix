@@ -1,5 +1,5 @@
 ### Hello there, I'm [Dhruva Narayan](https://sites.google.com/view/dhruvix7),
-a final year student of computer science at MSRIT
+a graduate student at RPI
 
 <a href = "https://www.linkedin.com/in/dhruva-narayan-482a70195/"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
 <a href = "https://www.goodreads.com/user/show/85692764-dhruva-hiremagalur-narayan"><img src="https://img.icons8.com/nolan/40/goodreads.png"/></a>
